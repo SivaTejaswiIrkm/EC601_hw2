@@ -1,1 +1,1 @@
-# EC601_hw2
+IOS application using Swift and Xcode
